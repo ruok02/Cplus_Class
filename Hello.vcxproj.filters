@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\3장 9번">
+      <UniqueIdentifier>{75968346-ddda-49dd-b526-37bcc1b7f590}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3장 10번">
+      <UniqueIdentifier>{f8526375-57a2-4def-ba45-42f12039696e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3장 오픈 챌린지">
+      <UniqueIdentifier>{2f2386ca-af03-45b0-abcd-ef315827aefc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4장 9번">
+      <UniqueIdentifier>{2d0b1846-462f-4241-8fb9-9b5973d5ec3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4장 10번">
+      <UniqueIdentifier>{c2c7d5ab-5154-47ad-85e8-9f5ffa4918e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4장 12번">
+      <UniqueIdentifier>{0e60aea2-a305-45cb-822c-d98ec157bd94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4장 13번">
+      <UniqueIdentifier>{e109526c-3c7b-4e27-861f-dd5b9acddb0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\4장 2번%28추가%29">
+      <UniqueIdentifier>{0cf2022a-4fe8-4306-853d-ba8ad0c9fa2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3장 9번 연습">
+      <UniqueIdentifier>{b61a7e86-c59f-44ed-8e0f-39ae3c51c0e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3장 10번\3장 10번 연습">
+      <UniqueIdentifier>{d89bd40d-27ea-45c0-9175-b731d253357a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3장 오픈 챌린지\3장 뉴 공부">
+      <UniqueIdentifier>{290ebd5d-b30d-4655-be3d-7814cc8b4100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\5장">
+      <UniqueIdentifier>{8978064e-1465-467f-8eed-0324e34247c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\5장 연습문제">
+      <UniqueIdentifier>{51ca1726-f3f3-46c4-a7fe-7677b60a6426}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3장 9번\Oval.cpp">
+      <Filter>리소스 파일\3장 9번</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 9번\Person.cpp">
+      <Filter>리소스 파일\4장 9번</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 9번\no4-10.1.cpp">
+      <Filter>리소스 파일\4장 10번</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 12번\no4-12.cpp">
+      <Filter>리소스 파일\4장 12번</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 13번\no4-13.cpp">
+      <Filter>리소스 파일\4장 13번</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 10번\Calculator.cpp">
+      <Filter>리소스 파일\3장 10번</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 챌린지 문제\main3-oc.cpp">
+      <Filter>리소스 파일\3장 오픈 챌린지</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 챌린지 문제\Exp.cpp">
+      <Filter>리소스 파일\3장 오픈 챌린지</Filter>
+    </ClCompile>
+    <ClCompile Include="no4-2.cpp">
+      <Filter>리소스 파일\4장 2번%28추가%29</Filter>
+    </ClCompile>
+    <ClCompile Include="4장 추가 공부\no4-3.cpp">
+      <Filter>리소스 파일\4장 2번%28추가%29</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 9번\main3-9.cpp">
+      <Filter>리소스 파일\3장 9번</Filter>
+    </ClCompile>
+    <ClCompile Include="3장 9번\Oval1.cpp">
+      <Filter>리소스 파일\3장 9번</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-3.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-7.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-6.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-8.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-9.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-10.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 교재\no5-11.cpp">
+      <Filter>리소스 파일\5장</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 연습문제\no5-7.cpp">
+      <Filter>리소스 파일\5장 연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 연습문제\no5-8.cpp">
+      <Filter>리소스 파일\5장 연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 연습문제\no5-9.cpp">
+      <Filter>리소스 파일\5장 연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5장 연습문제\no5-11.cpp">
+      <Filter>리소스 파일\5장 연습문제</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3장 챌린지 문제\Exp.h">
+      <Filter>리소스 파일\3장 오픈 챌린지</Filter>
+    </ClInclude>
+    <ClInclude Include="3장 9번\Oval.h">
+      <Filter>리소스 파일\3장 9번</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
